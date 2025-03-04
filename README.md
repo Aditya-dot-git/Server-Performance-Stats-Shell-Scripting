@@ -33,9 +33,7 @@ sudo pacman -S sysstat
 
 ## Installation & Execution
 ### Step 1: Clone or Download the Script
-```bash
-wget https://example.com/server-stats.sh  
-```
+
 
 ### Step 2: Grant Execution Permissions
 ```bash
