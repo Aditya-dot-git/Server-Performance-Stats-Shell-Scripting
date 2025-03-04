@@ -88,5 +88,6 @@ Feel free to modify the script to add more monitoring stats such as network usag
 This script is open-source and can be modified or distributed freely.
 
 ---
+Project-URL: https://roadmap.sh/projects/server-stats
 For any issues, feel free to report them!
 
